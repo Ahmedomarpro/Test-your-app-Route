@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView_Test_Route</string>
+    <string name="textview">TextView ||  TextView || TextView \n|| TextView || TextView || TextView || </string>
+</resources>
